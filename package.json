@@ -1,0 +1,23 @@
+{
+  "name": "globomantics",
+  "version": "1.0.0",
+  "description": "Globomantics is a conference application for sessions and speakers.",
+  "scripts": {
+    "app": "cd app && npm run start",
+    "api": "cd api && npm run start",
+    "start": "run-p app api"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2",
+    "npm-run-all2": "6.1.1"
+  },
+  "dependencies": {
+    "@types/node": "^14.14.27",
+    "graphql": "^16.8.1",
+    "lodash": "^4.17.21",
+    "typescript": "^5.2.2"
+  }
+}

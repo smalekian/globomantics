@@ -1,0 +1,7 @@
+fragment Session on Session {
+  id
+  title
+  description
+  format
+  level
+}

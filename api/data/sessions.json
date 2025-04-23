@@ -1,0 +1,1029 @@
+{
+  "sessions": [
+    {
+      "id": 84473,
+      "title": "Secure Programming for the Enterprise",
+      "description": "Est sunt nostrud officia fugiat sunt reprehenderit cupidatat. Et incididunt aliquip aliqua et id sit enim velit aliquip velit incididunt nulla. Aliquip adipisicing eu sint et incididunt excepteur labore in labore culpa ea. Incididunt aute labore aute duis adipisicing officia consequat. Incididunt sit aute nostrud officia exercitation aute fugiat quis commodo officia sunt culpa labore laboris reprehenderit. Commodo eu non reprehenderit. Sint ipsum ex dolore pariatur aliqua laboris tempor aliqua excepteur adipisicing.\nExcepteur ex et veniam adipisicing eu et. Deserunt non laborum proident. Exercitation sint do irure ut eiusmod incididunt non. Nostrud non incididunt adipisicing ipsum qui mollit cillum dolore voluptate. Occaecat officia incididunt in duis.\nEt est magna aliquip pariatur consectetur voluptate voluptate sunt ut minim do reprehenderit do. Ex incididunt sunt tempor do eiusmod dolor culpa ipsum eu aliqua cillum ad ut incididunt. Pariatur reprehenderit duis cupidatat consequat est veniam in qui consequat esse irure ex occaecat. Amet aliquip aliquip non enim ex do ad est nisi qui ut adipisicing aliqua in duis. Adipisicing Lorem ut do deserunt ipsum nulla labore Lorem ullamco.",
+      "startsAt": "8:00",
+      "endsAt": "5:00",
+      "speakers": [
+        {
+          "id": "2bda8276-b7b6-4653-a7c5-1bcc59d11a49",
+          "name": "Jean Ryan"
+        }
+      ],
+      "room": "Europa",
+      "day": "Wednesday",
+      "format": "FullDay Workshop",
+      "track": ".NET",
+      "level": "Intermediate",
+      "favorite": true
+    },
+    {
+      "id": 84375,
+      "title": "Automation: A Deep Dive into Jenkins",
+      "description": "Veniam dolore deserunt amet exercitation aute aliqua dolore eiusmod ipsum. Voluptate est ipsum exercitation dolore in magna pariatur minim laborum. Officia dolore et dolor duis adipisicing Lorem dolor sunt elit incididunt laboris. Incididunt laboris dolor sint culpa ut aute ipsum officia sit eiusmod commodo fugiat ad nisi non.\nReprehenderit elit enim magna fugiat anim veniam magna laborum reprehenderit eiusmod qui sit magna reprehenderit. Laboris excepteur duis eu dolor deserunt occaecat et. Mollit cillum cupidatat amet id aute aliquip deserunt dolore consequat nostrud cillum duis. Labore ipsum reprehenderit mollit non esse do dolor magna labore. Irure aliquip sunt eu labore irure ipsum culpa id sunt velit voluptate nostrud est qui sint.",
+      "startsAt": "8:00",
+      "endsAt": "5:00",
+      "speakers": [
+        {
+          "id": "8f3683fe-0760-487b-8a9d-9fbebfaf6bc7",
+          "name": "Brandy Terry"
+        }
+      ],
+      "room": "Saturn",
+      "day": "Wednesday",
+      "format": "FullDay Workshop",
+      "track": "DevOps",
+      "level": "Advanced",
+      "favorite": false
+    },
+    {
+      "id": 80310,
+      "title": "Build a DevOps Pipeline for .NET Apps",
+      "description": "Dolor occaecat excepteur Lorem. Sit ut magna cupidatat et minim incididunt fugiat in. Cupidatat sint dolore irure qui esse. Aliqua aute consequat eu ex id Lorem irure. Amet excepteur qui do eu anim. Adipisicing voluptate consectetur commodo ex. Aliquip excepteur aliqua do ea ea ad labore magna pariatur ex. Ex ex in ullamco Lorem.\nOccaecat ad elit adipisicing eu in exercitation dolor aliquip aliqua laborum amet. Labore nostrud enim dolor anim ad. Ea ex sit dolore magna nostrud do ipsum cupidatat eu cupidatat exercitation anim ullamco occaecat. Culpa fugiat irure ullamco excepteur anim quis esse aute occaecat aliquip et aute ea et. Eu esse ut dolor mollit tempor anim ipsum dolor. Do adipisicing commodo mollit amet nostrud. Est aliquip ad aute cillum aute consequat incididunt labore proident cillum occaecat.",
+      "startsAt": "8:00",
+      "endsAt": "5:00",
+      "speakers": [
+        {
+          "id": "e2187bee-02a6-492b-9706-452f5748f473",
+          "name": "Erik Peters"
+        }
+      ],
+      "room": "Sol",
+      "day": "Wednesday",
+      "format": "FullDay Workshop",
+      "track": ".NET",
+      "level": "Advanced"
+    },
+    {
+      "id": 79874,
+      "title": "A.I. powered robots",
+      "description": "Pariatur officia excepteur ad magna incididunt ullamco magna nulla laborum laboris fugiat duis laboris. Excepteur laborum pariatur labore pariatur. Nulla duis nisi dolor sit cupidatat dolore duis cillum sint dolor. Consequat aute excepteur qui sint voluptate tempor veniam consectetur ipsum officia minim. Est ea in in ipsum amet ex adipisicing laborum. Ea adipisicing enim velit excepteur ullamco veniam quis do consectetur aute adipisicing officia. Minim laborum officia cupidatat occaecat mollit incididunt duis mollit.\nQui cupidatat anim ex velit consequat enim nostrud sunt ad nostrud eu in irure culpa non. Voluptate officia excepteur duis in magna commodo. Magna elit quis duis minim sint sunt quis magna anim sint eu adipisicing. Fugiat sint aliqua elit excepteur nisi. Magna eiusmod laborum deserunt officia mollit quis labore eiusmod do. In deserunt esse nisi tempor tempor reprehenderit Lorem magna. Culpa magna adipisicing ullamco occaecat est ut ex.\nProident veniam in elit officia incididunt elit nostrud ea pariatur adipisicing sunt esse et. Ipsum ea duis eiusmod excepteur magna laborum irure ex consectetur veniam reprehenderit. Aute culpa quis et quis occaecat in incididunt. Tempor adipisicing commodo cillum elit cupidatat voluptate ut cillum. Amet sunt voluptate amet excepteur Lorem consectetur reprehenderit officia dolore ad elit sit Lorem consequat. Ea quis est sunt incididunt id ipsum laborum. Quis sunt laborum aute.",
+      "startsAt": "8:00",
+      "endsAt": "5:00",
+      "speakers": [
+        {
+          "id": "36a25c2a-4204-42f0-9ba8-d7b9c6f67226",
+          "name": "Bowie Graves"
+        }
+      ],
+      "room": "Jupiter",
+      "day": "Wednesday",
+      "format": "FullDay Workshop",
+      "track": "Data",
+      "level": "Introductory and overview"
+    },
+    {
+      "id": 85595,
+      "title": "Event Driven MicroServices",
+      "description": "Sint proident tempor nisi magna dolor cupidatat velit nisi. Amet sint laboris voluptate veniam anim commodo. Ad id ea fugiat ex. Pariatur ea do duis. Eu consequat minim laboris consectetur aliqua ipsum cillum magna ea est. Eiusmod aliqua sit duis. Qui sit excepteur laboris officia aliqua laboris deserunt in excepteur irure commodo in dolor elit nostrud. Deserunt occaecat reprehenderit fugiat esse elit tempor tempor mollit laboris ut.",
+      "startsAt": "8:00",
+      "endsAt": "5:00",
+      "speakers": [
+        {
+          "id": "23ff4eb2-5c07-4548-85c7-e2cefe63c0cd",
+          "name": "Camryn Richardson"
+        }
+      ],
+      "room": "Earth",
+      "day": "Wednesday",
+      "format": "FullDay Workshop",
+      "track": "Cloud",
+      "level": "Intermediate"
+    },
+    {
+      "id": 82049,
+      "title": "Test-Driven Development with JavaScript",
+      "description": "Ullamco aute esse dolor laboris labore dolore laboris laborum in occaecat qui quis laborum anim minim. Anim deserunt adipisicing officia sit duis Lorem deserunt anim elit ullamco duis. Quis pariatur est et sint voluptate aliqua velit Lorem aliquip eu pariatur. Lorem labore ad est aute ex exercitation duis ea commodo occaecat nostrud velit sit consequat. Dolor culpa do nisi Lorem nisi elit officia incididunt in. Duis do in amet mollit nostrud esse nisi.",
+      "startsAt": "8:00",
+      "endsAt": "12:00",
+      "speakers": [
+        {
+          "id": "a25e6534-f680-4487-83da-9f58329af3a9",
+          "name": "Willie Wells"
+        }
+      ],
+      "room": "Mercury",
+      "day": "Wednesday",
+      "format": "HalfDay Workshop",
+      "track": "JavaScript",
+      "level": "Intermediate"
+    },
+    {
+      "id": 85060,
+      "title": "An Introduction to Processing",
+      "description": "Cillum aute ullamco ut tempor incididunt id nulla eiusmod Lorem occaecat. Fugiat exercitation magna officia laboris et mollit ullamco adipisicing est enim. Minim incididunt velit proident et tempor excepteur voluptate nisi laboris dolor officia tempor nulla pariatur. Laboris adipisicing sit cupidatat tempor eu irure aliqua sit voluptate cupidatat elit Lorem. Irure cillum tempor consectetur reprehenderit occaecat fugiat aliquip. In quis incididunt cupidatat ad in minim ex consectetur in. Irure nostrud enim nisi ipsum mollit laborum consectetur culpa. Tempor sunt esse nostrud cupidatat eiusmod.\nCulpa culpa esse aute sit. Dolor velit commodo enim do pariatur velit ex cupidatat proident commodo voluptate do exercitation. Sint culpa deserunt enim qui occaecat in. Nisi nisi sunt sit tempor et ad dolore exercitation officia nisi proident nulla ea. Ex est sit laborum officia commodo qui laboris consectetur nostrud mollit nisi excepteur proident.\nCommodo voluptate quis labore fugiat excepteur magna ut ad proident exercitation. Dolore cillum officia proident occaecat incididunt est laborum. Esse consequat excepteur sit commodo. Lorem tempor nostrud ea veniam consequat aliquip officia excepteur consectetur minim id in culpa elit. Non ad non pariatur excepteur commodo elit veniam consequat laboris duis.",
+      "startsAt": "8:00",
+      "endsAt": "12:00",
+      "speakers": [
+        {
+          "id": "b8f3c690-5950-4279-9ee7-9291d1439dd2",
+          "name": "Robin Garcia"
+        }
+      ],
+      "room": "Mars",
+      "day": "Wednesday",
+      "format": "HalfDay Workshop",
+      "track": "Other Languages",
+      "level": "Introductory and overview"
+    },
+    {
+      "id": 78054,
+      "title": "Fearless GIT",
+      "description": "Eu irure est sint ad ullamco eu adipisicing id velit eiusmod enim magna. Ipsum velit enim ullamco ut minim ullamco ullamco ut sint duis. Deserunt excepteur sit sint cupidatat proident. Minim magna id labore esse qui incididunt duis consequat exercitation tempor eiusmod. Cupidatat incididunt irure labore laboris labore ut sunt voluptate reprehenderit enim incididunt pariatur fugiat excepteur fugiat. Commodo excepteur culpa aliquip sit minim laborum eu aliquip nulla ullamco veniam aute duis commodo sunt.\nAd Lorem duis est quis veniam laboris id ullamco id amet incididunt. Ex ad anim est laborum officia cillum consequat est do. Sit fugiat ex voluptate fugiat incididunt magna est do ad dolor officia. Nulla et exercitation magna anim adipisicing ullamco laboris occaecat enim consequat veniam. Do laborum cupidatat aliquip laborum esse sunt adipisicing minim consequat eiusmod. Sint nisi elit et magna exercitation fugiat enim in pariatur elit fugiat eu culpa aliqua. Non fugiat nisi quis elit elit mollit id.",
+      "startsAt": "8:00",
+      "endsAt": "5:00",
+      "speakers": [
+        {
+          "id": "0c4f74c9-6be8-40d0-b588-674d3b783472",
+          "name": "Michele Jenkins"
+        }
+      ],
+      "room": "Pluto",
+      "day": "Wednesday",
+      "format": "FullDay Workshop",
+      "track": "Process",
+      "level": "Intermediate"
+    },
+    {
+      "id": 80342,
+      "title": "Non Managers Leadership Skills",
+      "description": "Voluptate aliquip nulla laboris laborum anim fugiat excepteur incididunt adipisicing. Amet enim do dolore Lorem duis. Id tempor cupidatat ullamco nulla elit enim proident ut nulla. Ex aliquip nostrud consequat do adipisicing cupidatat non sit ut ex ad voluptate nisi est aute. Veniam excepteur nostrud nisi est fugiat nostrud Lorem non ipsum consequat eu nostrud est qui. Veniam ullamco pariatur ut sit do aliqua.\nCulpa laborum adipisicing sint ut laborum enim duis veniam officia. Eiusmod quis consectetur ex incididunt ea elit. Minim ullamco excepteur non aliqua sunt sint deserunt enim aliqua nulla et ex mollit. Tempor tempor laborum anim dolor et id fugiat proident deserunt anim esse laboris duis dolore dolor. Duis irure voluptate officia ex cupidatat elit eu fugiat occaecat amet. Sit reprehenderit minim irure nostrud et est aliquip ullamco deserunt. Quis aliquip duis deserunt esse. Nulla consequat nisi do est cupidatat duis anim minim labore cupidatat laboris dolore deserunt labore ut.\nMagna do deserunt sint ut incididunt nisi ullamco occaecat in consectetur labore elit duis pariatur. Excepteur sunt ex est ea amet id ut deserunt deserunt culpa est non cupidatat nulla. Aliquip enim do qui fugiat id ipsum reprehenderit veniam velit nostrud adipisicing. Sint aliquip eu commodo officia adipisicing culpa adipisicing ut exercitation qui fugiat sit tempor.",
+      "startsAt": "8:00",
+      "endsAt": "12:00",
+      "speakers": [
+        {
+          "id": "3b4b4bf9-547b-4961-a49e-f7028b0390cd",
+          "name": "Roland Terry"
+        }
+      ],
+      "room": "Uranus",
+      "day": "Wednesday",
+      "format": "HalfDay Workshop",
+      "track": "Human Skills",
+      "level": "Introductory and overview"
+    },
+    {
+      "id": 85250,
+      "title": "Hands-on Microservices",
+      "description": "Excepteur amet ut dolore proident Lorem occaecat exercitation. Do nisi aliquip consequat cillum consequat ea mollit aute deserunt ex ipsum incididunt minim cupidatat do. Consectetur id pariatur duis incididunt pariatur aute dolor incididunt sint minim. Dolor voluptate Lorem excepteur irure amet reprehenderit. Esse ut qui laboris deserunt minim nostrud minim id ut incididunt nostrud amet. Lorem magna cupidatat officia cillum veniam laboris magna consequat exercitation. Fugiat aute officia dolore et velit. Do duis aute id.\nNulla adipisicing excepteur eiusmod duis et. Ea et consectetur incididunt cupidatat proident ipsum amet tempor sunt. Nisi eiusmod amet deserunt. Sunt quis elit irure dolore cillum labore laborum occaecat ullamco. Culpa fugiat veniam excepteur cillum dolor cillum amet cupidatat. Fugiat minim adipisicing sint nisi esse nisi. Culpa labore ut commodo occaecat non ipsum duis in consequat anim labore adipisicing. Et id Lorem aliquip est in sit anim nulla eu laboris laborum ea voluptate.",
+      "startsAt": "8:00",
+      "endsAt": "12:00",
+      "speakers": [
+        {
+          "id": "6e30db3e-1cec-441c-9c29-7813738255c1",
+          "name": "Kurt Anderson"
+        }
+      ],
+      "room": "Venus",
+      "day": "Wednesday",
+      "format": "HalfDay Workshop",
+      "track": "Java",
+      "level": "Intermediate"
+    },
+    {
+      "id": 80763,
+      "title": "Get Started with CSS Grid in Reusable Components",
+      "description": "Consectetur Lorem ea anim qui. Ullamco tempor quis aliquip pariatur. Aute cupidatat enim sunt sit ea quis ipsum veniam quis consectetur labore laboris Lorem cupidatat. Voluptate proident dolore est officia cillum irure elit ex aute nisi incididunt aute amet tempor. Eiusmod sint laborum aute cupidatat labore deserunt magna in Lorem exercitation non. Excepteur dolore fugiat proident non ad proident fugiat.\nEiusmod ex esse occaecat. Laboris incididunt eiusmod nostrud. Quis adipisicing est voluptate ea. Ea anim et nostrud veniam anim tempor nulla dolore culpa. Exercitation incididunt esse consequat ullamco ullamco.\nDo eu anim dolore ipsum est consequat et velit do sit nulla occaecat dolor id elit. In culpa cillum elit voluptate ullamco nostrud aliquip anim. Exercitation esse aliquip ex aliqua anim ut velit sunt. Eu sint commodo elit est excepteur Lorem deserunt laboris nostrud consectetur et Lorem quis. Reprehenderit ad aliquip Lorem magna cillum irure aliqua consequat amet laboris do ipsum nostrud. Do aliqua ea incididunt laborum. Ut id aliqua velit consectetur incididunt aliquip aute excepteur. Occaecat irure sint ipsum et reprehenderit amet.",
+      "startsAt": "8:00",
+      "endsAt": "12:00",
+      "speakers": [
+        {
+          "id": "8a64a5ed-e5d8-4d27-911a-6798ab37b851",
+          "name": "Ocean Kelley"
+        }
+      ],
+      "room": "Neptune",
+      "day": "Wednesday",
+      "format": "HalfDay Workshop",
+      "track": "UI/UX",
+      "level": "Introductory and overview"
+    },
+    {
+      "id": 85148,
+      "title": "OKRs, Personas, and Storymapping in Product Discovery",
+      "description": "Exercitation irure non velit ullamco laboris non proident pariatur veniam aliqua cillum tempor ipsum quis aliqua. Fugiat consequat cillum do irure quis quis proident ad. Deserunt sint irure officia aute. Duis labore enim dolore sint. Nostrud ad Lorem ea sint in irure labore commodo deserunt ad sunt ullamco. Cillum dolor amet ad irure aliqua aliqua incididunt in eiusmod culpa velit.",
+      "startsAt": "8:00",
+      "endsAt": "12:00",
+      "speakers": [
+        {
+          "id": "87029c5c-0b50-4926-a57c-3af4b7dfe5a5",
+          "name": "Eduardo Terry"
+        }
+      ],
+      "room": "Ganymede",
+      "day": "Wednesday",
+      "format": "HalfDay Workshop",
+      "track": "Process",
+      "level": "Introductory and overview"
+    },
+    {
+      "id": 85293,
+      "title": "Data Science with R",
+      "description": "Labore reprehenderit eiusmod ut. Enim culpa in commodo occaecat minim minim anim velit in est proident ex. Mollit ad excepteur magna mollit culpa adipisicing ea magna est laboris. Amet qui mollit sint est adipisicing dolore ullamco. Cupidatat magna nulla tempor sint eiusmod. Reprehenderit irure ad elit est elit amet veniam minim incididunt do ad. Sit do ea esse proident ea proident do proident.\nSunt proident deserunt exercitation in aute est ea reprehenderit consequat ex duis. Ullamco sint dolor sit consectetur deserunt. Consectetur ipsum officia veniam eu sunt exercitation occaecat magna est culpa elit. Nisi laboris minim cillum cillum est. Reprehenderit voluptate commodo ullamco nostrud ullamco irure fugiat nostrud deserunt nulla. Elit veniam est in voluptate Lorem consequat Lorem.",
+      "startsAt": "8:00",
+      "endsAt": "5:00",
+      "speakers": [
+        {
+          "id": "fa9a25d7-fdc1-4e8a-b4da-16a766d59127",
+          "name": "Milan Silva"
+        }
+      ],
+      "room": "Io",
+      "day": "Wednesday",
+      "format": "FullDay Workshop",
+      "track": "Data Science",
+      "level": "Introductory and overview"
+    },
+    {
+      "id": 85264,
+      "title": "One Codebase for Web and Mobile",
+      "description": "Tempor sunt qui excepteur dolor duis amet cupidatat fugiat Lorem id pariatur. Nisi occaecat ad sit cillum tempor in Lorem. Mollit elit excepteur aliqua sit deserunt culpa velit fugiat consectetur sit aute. Consectetur ut eiusmod incididunt commodo culpa. Cupidatat nulla anim ea consequat eu do et ea labore voluptate dolore irure.\nCommodo consectetur adipisicing in laborum ipsum. Velit mollit quis incididunt non ex. Cillum dolor magna ut. Minim dolor ea tempor excepteur proident aliquip sit aliqua adipisicing cupidatat ad do excepteur voluptate consectetur. Irure ad ut deserunt duis dolor tempor magna culpa. Dolor id sit tempor reprehenderit commodo ea aute cillum. Mollit aliquip do ut quis irure dolore aliqua sint elit laboris.\nIpsum sint irure aliquip aute in nisi cupidatat nulla enim deserunt non. Ipsum officia ex et Lorem adipisicing consectetur aute nostrud aute. Laboris sit consectetur officia. Exercitation amet amet cupidatat adipisicing ex voluptate ullamco ut ullamco cupidatat sunt minim veniam est consequat. Aute officia velit dolor commodo dolore eiusmod aliqua esse in nostrud.",
+      "startsAt": "8:00",
+      "endsAt": "5:00",
+      "speakers": [
+        {
+          "id": "8de6a283-f104-432b-ad08-f775a5fae6a4",
+          "name": "Sally Watts"
+        }
+      ],
+      "room": "Titan",
+      "day": "Wednesday",
+      "format": "FullDay Workshop",
+      "track": "Mobile",
+      "level": "Intermediate"
+    },
+    {
+      "id": 85299,
+      "title": "Getting Angular Running",
+      "description": "Magna fugiat pariatur id fugiat in enim anim do velit laboris dolor occaecat ullamco irure. Non ea non occaecat id mollit cupidatat esse duis esse eiusmod nisi voluptate enim culpa. Aliquip qui amet veniam sunt culpa reprehenderit cillum aliqua fugiat elit incididunt. Labore commodo occaecat et voluptate et enim culpa pariatur eu. Quis cupidatat velit officia officia occaecat exercitation velit esse elit ad irure cillum magna tempor cupidatat. Anim laborum sit magna anim tempor. Nisi id nulla mollit proident nostrud deserunt sit magna do elit enim sunt qui do. Aute reprehenderit laborum sunt non eiusmod ex ea eiusmod.",
+      "startsAt": "8:00",
+      "endsAt": "5:00",
+      "speakers": [
+        {
+          "id": "3e903f94-c2bf-4543-aa77-9990467f4573",
+          "name": "Caroline Ward"
+        }
+      ],
+      "room": "Callisto",
+      "day": "Wednesday",
+      "format": "FullDay Workshop",
+      "track": "JavaScript",
+      "level": "Introductory and overview"
+    },
+    {
+      "id": 79654,
+      "title": "Accessibility 101",
+      "description": "Occaecat aliqua exercitation duis aliquip amet. Esse deserunt nostrud aliqua voluptate aliqua mollit veniam esse nisi sunt. In in est labore dolor nisi sit ipsum enim. Incididunt commodo incididunt esse. Officia excepteur ex dolor id Lorem sunt aliquip eu voluptate aliqua tempor non ut. Ea exercitation sit mollit consectetur aute quis veniam velit voluptate Lorem id nulla pariatur excepteur minim.",
+      "startsAt": "1:00",
+      "endsAt": "5:00",
+      "speakers": [
+        {
+          "id": "3336b62f-c81b-4892-8247-d34043767210",
+          "name": "Perrie Dunn"
+        },
+        {
+          "id": "9849b607-154a-40f0-8b96-35f2d9f2b516",
+          "name": "Heather Mendoza"
+        }
+      ],
+      "room": "Neptune",
+      "day": "Wednesday",
+      "format": "HalfDay Workshop",
+      "track": "UI/UX",
+      "level": "Introductory and overview"
+    },
+    {
+      "id": 84216,
+      "title": "Forecasting with No Estimates",
+      "description": "Consequat qui eiusmod ex eu esse ad velit cillum aliquip aliquip do magna ad veniam est. Nulla reprehenderit cupidatat ut culpa. Aliqua eiusmod esse enim proident qui eiusmod irure commodo pariatur dolore enim exercitation. Occaecat labore nulla anim cupidatat incididunt. Pariatur id velit exercitation sint pariatur magna reprehenderit.\nAute sint nisi in commodo voluptate minim magna id. Enim voluptate nostrud Lorem minim irure duis ad nostrud. Laborum culpa est laboris quis laboris aute ad. Mollit et mollit consectetur nisi ullamco ut Lorem quis et. Pariatur consectetur consectetur veniam. Elit id sunt commodo.",
+      "startsAt": "1:00",
+      "endsAt": "5:00",
+      "speakers": [
+        {
+          "id": "f6873ff8-e7a8-40db-895b-118a33c069e0",
+          "name": "Craig Johnston"
+        }
+      ],
+      "room": "Ganymede",
+      "day": "Wednesday",
+      "format": "HalfDay Workshop",
+      "track": "Process",
+      "level": "Intermediate"
+    },
+    {
+      "id": 80749,
+      "title": "React and Spring WebFlux",
+      "description": "Duis non tempor ullamco qui id aliqua cupidatat aliqua consectetur incididunt consectetur. Incididunt ex nisi amet dolore amet commodo reprehenderit velit aliquip sint Lorem mollit aliqua excepteur. Aute aliqua culpa exercitation. Cupidatat commodo excepteur magna voluptate enim eiusmod cillum adipisicing Lorem reprehenderit.\nNon do nostrud elit ea. Est cupidatat labore qui reprehenderit. Enim exercitation exercitation laborum consectetur exercitation excepteur ullamco id labore nulla aute Lorem dolore. Magna occaecat consectetur dolor adipisicing. Qui exercitation mollit consequat et aliquip nulla ipsum. Minim enim magna adipisicing proident in commodo et veniam do consequat veniam. Ea eu nostrud duis deserunt sit do pariatur mollit mollit nulla nostrud pariatur eu proident sint.\nLaboris consectetur sit elit. Esse anim est amet duis sint non. Irure dolor commodo laboris in cupidatat exercitation officia exercitation quis velit. Aute adipisicing et eiusmod magna cupidatat deserunt qui ad cillum labore sint. Aliquip enim nisi tempor ea esse cupidatat sunt ipsum nulla incididunt aliqua. Veniam aute tempor id veniam duis ea do commodo.",
+      "startsAt": "1:00",
+      "endsAt": "5:00",
+      "speakers": [
+        {
+          "id": "55118daf-09db-4e61-a5b6-c2661640c3d2",
+          "name": "Ashton Dunn"
+        }
+      ],
+      "room": "Venus",
+      "day": "Wednesday",
+      "format": "HalfDay Workshop",
+      "track": "Java",
+      "level": "Intermediate"
+    },
+    {
+      "id": 78175,
+      "title": "How to break down walls",
+      "description": "Ea quis tempor consequat mollit sit ut. Laborum commodo aliqua reprehenderit duis quis aliqua quis cupidatat minim do elit eu fugiat occaecat sunt. Voluptate nulla consectetur eu et cillum dolore cupidatat officia ad magna non. Aliquip enim aliquip nostrud reprehenderit consectetur nostrud excepteur ex velit mollit veniam voluptate.\nQuis dolor consequat occaecat deserunt dolore et duis nulla fugiat laborum. Laboris Lorem veniam esse. Reprehenderit do voluptate consequat mollit elit cupidatat ullamco ea ullamco. Lorem id adipisicing esse esse. Ipsum proident ut deserunt ipsum est proident culpa culpa excepteur esse ex enim duis pariatur ad. Ullamco aute officia pariatur reprehenderit sit. Ex anim cillum deserunt ex fugiat id.",
+      "startsAt": "1:00",
+      "endsAt": "5:00",
+      "speakers": [
+        {
+          "id": "e8eb22dd-d167-4efa-ba0e-905c94b38f9b",
+          "name": "Constance Jimenez"
+        }
+      ],
+      "room": "Uranus",
+      "day": "Wednesday",
+      "format": "HalfDay Workshop",
+      "track": "Human Skills",
+      "level": "Introductory and overview"
+    },
+    {
+      "id": 80991,
+      "title": "React from Nothing",
+      "description": "Ea consequat elit nulla ad consectetur. Ut sunt laboris in dolore. Commodo ad exercitation ea. Pariatur est proident incididunt duis tempor aliqua do aliquip qui culpa irure aliqua eiusmod do. Tempor aliqua enim dolor et quis nostrud excepteur sit enim ea culpa cillum cillum. Est culpa in deserunt duis eiusmod deserunt adipisicing aliquip mollit.\nAdipisicing proident aliqua consectetur dolor cupidatat. Dolor sint dolor aute exercitation. Reprehenderit ex anim laboris cillum anim enim ut excepteur consectetur quis elit aliqua eu. Commodo duis aliqua ea quis laborum magna eiusmod Lorem excepteur magna aute non. Commodo qui minim culpa aute labore sit. Minim consequat exercitation dolore adipisicing. Ullamco occaecat aute cillum deserunt ad.\nAd sunt eu magna sint fugiat incididunt in. Proident magna reprehenderit incididunt esse in esse id ea. Officia proident nisi enim id enim elit ipsum commodo veniam ut eiusmod velit qui amet. Ut in culpa ad adipisicing anim cupidatat nulla consectetur ad aliquip. Ex culpa laboris ullamco nulla consequat cupidatat velit deserunt dolor eiusmod. Fugiat aliquip magna in ullamco ea eiusmod ullamco sunt reprehenderit laborum duis labore. Labore excepteur eu pariatur consequat dolore amet mollit fugiat dolor nostrud.",
+      "startsAt": "1:00",
+      "endsAt": "5:00",
+      "speakers": [
+        {
+          "id": "424f7166-a882-473f-b05e-15aed7f9ff86",
+          "name": "Tracy Peterson"
+        }
+      ],
+      "room": "Mercury",
+      "day": "Wednesday",
+      "format": "HalfDay Workshop",
+      "track": "JavaScript",
+      "level": "Intermediate"
+    },
+    {
+      "id": 131951,
+      "title": "Lets Build Serverless",
+      "description": "Minim nisi sint enim laboris irure adipisicing nostrud proident fugiat exercitation irure amet ullamco mollit. Mollit adipisicing nostrud enim voluptate laboris nulla quis sunt dolore ullamco culpa. Ipsum dolor esse aliqua minim. Esse et voluptate dolore mollit fugiat sint laboris occaecat ad mollit. Enim cupidatat enim aliquip labore nostrud adipisicing.\nEt minim amet tempor. Aliquip quis nulla labore ex ipsum qui dolore officia deserunt minim non do aliqua fugiat. Nostrud quis ut nostrud sit minim nulla nisi ea qui ullamco consequat ut esse eiusmod voluptate. Qui deserunt anim in quis sint officia cillum irure veniam sit aliqua est laboris proident nisi. Sint consectetur nisi consectetur non aute aliqua ad voluptate duis ea adipisicing. Voluptate laborum amet nisi qui ea reprehenderit non irure minim nulla duis quis irure. Sint ipsum minim tempor minim proident laborum consectetur laborum minim eu nostrud nostrud ad dolor. Aliqua occaecat aliqua laboris amet consequat fugiat proident nisi consequat sint laboris amet voluptate consectetur.\nReprehenderit ea excepteur sit culpa officia veniam in incididunt ea irure. Tempor cupidatat ut ex ea duis magna labore amet adipisicing exercitation. Qui qui dolor excepteur do veniam voluptate est laboris adipisicing ut. Sunt sit nisi aute.",
+      "startsAt": "1:00",
+      "endsAt": "5:00",
+      "speakers": [
+        {
+          "id": "e87c804d-b551-4614-8891-007f421a683f",
+          "name": "Ivan Garrett"
+        }
+      ],
+      "room": "Mars",
+      "day": "Wednesday",
+      "format": "HalfDay Workshop",
+      "track": "Cloud",
+      "level": "Intermediate"
+    },
+    {
+      "id": 82048,
+      "title": "10 Things You'll Hate About React",
+      "description": "Laboris ullamco occaecat aliqua aliquip cupidatat dolor. Nulla Lorem in cillum. Sint non commodo sit eu reprehenderit. Magna mollit aute excepteur anim.\nDolore incididunt tempor dolore elit. Laboris id non et reprehenderit qui elit. Ipsum culpa et laborum pariatur laborum velit sunt officia cupidatat culpa. Excepteur in eu eu aliqua eu pariatur magna duis aute magna commodo. Eu qui quis magna reprehenderit Lorem veniam. Dolor proident deserunt mollit aliqua quis voluptate enim adipisicing amet occaecat ullamco. Id do velit labore ut proident commodo.\nNulla aliqua sit cupidatat ipsum esse id esse ex Lorem ut Lorem sunt. Irure et magna labore duis magna officia amet magna commodo sint. Aliqua eiusmod exercitation eu voluptate quis duis ullamco sit nisi commodo aliqua deserunt. Non ullamco ullamco nisi quis id irure do do voluptate ipsum sint laboris.",
+      "startsAt": "8:45",
+      "endsAt": "9:45",
+      "speakers": [
+        {
+          "id": "a25e6534-f680-4487-83da-9f58329af3a9",
+          "name": "Rylan Riley"
+        }
+      ],
+      "room": "Sol",
+      "day": "Thursday",
+      "format": "Session",
+      "track": "JavaScript",
+      "level": "Introductory and overview"
+    },
+    {
+      "id": 85213,
+      "title": "Agile is a Bad Word",
+      "description": "Ut ea officia velit irure quis. Do esse ex eu nisi consectetur culpa non aliqua ut reprehenderit et laboris anim Lorem excepteur. Proident nisi quis excepteur in esse enim elit tempor sit commodo sunt eu et. Eiusmod id ad sunt sint.",
+      "startsAt": "8:45",
+      "endsAt": "9:45",
+      "speakers": [
+        {
+          "id": "96051b9e-ae0d-47fe-95fc-83419f497ba2",
+          "name": "Suzanne Brown"
+        }
+      ],
+      "room": "Mars",
+      "day": "Thursday",
+      "format": "Session",
+      "track": "Process",
+      "level": "Intermediate"
+    },
+    {
+      "id": 84376,
+      "title": "Kotlin 101",
+      "description": "Occaecat aliqua quis aute consequat irure consectetur cillum. Occaecat laborum fugiat culpa id cillum sunt commodo minim veniam consectetur aliquip do sunt. Fugiat nulla irure ea exercitation sit occaecat in sit cillum laborum reprehenderit reprehenderit eiusmod deserunt. Cupidatat duis nisi pariatur ea ullamco.\nProident est dolor aute consectetur nisi cillum Lorem mollit est eu est adipisicing ullamco. Duis veniam aliquip sunt culpa velit ex reprehenderit incididunt minim. Tempor proident do nisi proident consectetur exercitation nostrud occaecat nulla occaecat sunt. Nulla eu amet in. Velit aliqua labore amet. Enim enim nulla exercitation excepteur eu labore eu aliqua fugiat anim.\nExercitation cupidatat aliqua officia do. Ea et enim cupidatat consectetur ut eiusmod consequat deserunt commodo ullamco nulla enim culpa nulla. Ipsum minim in cillum sint ex Lorem fugiat occaecat. Adipisicing consectetur deserunt do.",
+      "startsAt": "8:45",
+      "endsAt": "9:45",
+      "speakers": [
+        {
+          "id": "172a6669-38c5-46ec-b262-3290e8aa41e3",
+          "name": "Joan Jordan"
+        }
+      ],
+      "room": "Europa",
+      "day": "Thursday",
+      "format": "Session",
+      "track": "Java",
+      "level": "Introductory and overview"
+    },
+    {
+      "id": 85256,
+      "title": "React Native and Flutter, Whats What",
+      "description": "Laboris aliqua ut quis et pariatur minim amet cillum adipisicing quis tempor nisi culpa quis. Amet dolore laboris elit consequat mollit sunt et excepteur aliqua fugiat mollit ipsum. Enim laboris fugiat quis ea amet commodo sint aliquip esse culpa quis pariatur cillum in. Laboris sunt occaecat ullamco nisi id id.\nAliquip culpa eu quis ut nostrud anim fugiat fugiat ex reprehenderit non. Ullamco aute id laboris duis in amet cillum. Ex sit ullamco duis sunt anim quis consequat est enim nulla exercitation. Cupidatat dolor anim qui consectetur.\nVelit labore ut quis Lorem cillum Lorem esse ipsum quis officia ex nulla sit. Irure consequat nisi exercitation dolor in ad ex qui cillum esse. Excepteur sunt veniam officia laboris reprehenderit do. Veniam Lorem commodo non.",
+      "startsAt": "8:45",
+      "endsAt": "9:45",
+      "speakers": [
+        {
+          "id": "8de6a283-f104-432b-ad08-f775a5fae6a4",
+          "name": "Patricia Knight"
+        }
+      ],
+      "room": "Saturn",
+      "day": "Thursday",
+      "format": "Session",
+      "track": "Mobile",
+      "level": "Intermediate"
+    },
+    {
+      "id": 81852,
+      "title": "Change Your Culture with CI/CD",
+      "description": "Officia reprehenderit amet culpa ex exercitation ut ut fugiat nostrud. Tempor culpa consectetur commodo consequat magna elit duis laborum est laborum officia. Est laboris anim officia amet minim irure irure amet duis reprehenderit ea magna incididunt. Cupidatat ut laborum anim dolore enim officia voluptate pariatur. Ea dolore voluptate do occaecat et et eu qui deserunt.",
+      "startsAt": "8:45",
+      "endsAt": "9:45",
+      "speakers": [
+        {
+          "id": "01b15b1c-44e4-4121-b057-ae7eb9c83934",
+          "name": "Rafael Moore"
+        }
+      ],
+      "room": "Neptune",
+      "day": "Thursday",
+      "format": "Session",
+      "track": "DevOps",
+      "level": "Intermediate"
+    },
+    {
+      "id": 77737,
+      "title": "Establishing a SOLID Foundation",
+      "description": "Lorem aute magna ea sunt esse mollit commodo sint ex officia cillum veniam enim. Culpa laboris ad amet commodo ipsum minim enim enim. In sit pariatur minim voluptate aliqua eu est aute sint nisi nisi ut exercitation. Ut culpa esse tempor aliqua sint mollit magna ullamco. Culpa do et voluptate fugiat et aliqua do ea esse excepteur consequat. Cupidatat velit labore voluptate pariatur nostrud occaecat. Incididunt sit veniam nulla mollit. Adipisicing exercitation enim et nulla labore magna adipisicing.",
+      "startsAt": "8:45",
+      "endsAt": "9:45",
+      "speakers": [
+        {
+          "id": "62ebafd8-8470-4415-bc16-6949e5c80f5b",
+          "name": "Brandy Neal"
+        }
+      ],
+      "room": "Mercury",
+      "day": "Thursday",
+      "format": "Session",
+      "track": ".NET",
+      "level": "Introductory and overview"
+    },
+    {
+      "id": 77734,
+      "title": "Focus on The Humans",
+      "description": "Esse minim occaecat aute quis proident magna quis qui adipisicing. Sunt proident consectetur elit ipsum irure eiusmod non veniam nulla ullamco ut non sit cupidatat. Ex ipsum enim laborum esse sunt do. Eu non eu exercitation Lorem pariatur nostrud eu Lorem deserunt officia labore tempor laboris veniam. Labore ut sit ullamco consequat exercitation veniam laborum irure sit reprehenderit. Irure voluptate nulla labore. Id non nisi dolor consequat est tempor culpa excepteur. Cillum mollit ut proident ad culpa consequat nulla.\nAd ex sint exercitation dolor eiusmod quis. Deserunt fugiat ullamco voluptate aliquip est deserunt reprehenderit commodo fugiat. Ea veniam ex esse in cupidatat nisi consectetur deserunt dolore ullamco ea ullamco. Esse reprehenderit sit occaecat anim esse est ullamco reprehenderit ut ad eu commodo non id nostrud. Irure consequat laborum labore.",
+      "startsAt": "8:45",
+      "endsAt": "9:45",
+      "speakers": [
+        {
+          "id": "6ccbc829-6939-4346-8f3e-78d495cd7360",
+          "name": "Minnie Carter"
+        }
+      ],
+      "room": "Callisto",
+      "day": "Thursday",
+      "format": "Session",
+      "track": "Human Skills",
+      "level": "Introductory and overview"
+    },
+    {
+      "id": 83380,
+      "title": "Azure Machine Learning services 101",
+      "description": "Est minim exercitation deserunt laborum occaecat Lorem adipisicing laboris consectetur voluptate minim reprehenderit esse eu. Proident sunt culpa deserunt nostrud Lorem incididunt et aliqua. Adipisicing velit non consectetur ea ea fugiat id enim velit excepteur elit adipisicing. Adipisicing ex quis voluptate in id sunt ipsum quis laborum nisi nostrud sit quis sint ullamco. Reprehenderit irure anim eu consectetur aute dolor et consequat. Eiusmod laborum nisi adipisicing voluptate non sint. Do commodo adipisicing quis velit dolore do laboris fugiat do proident.\nSunt sunt irure et aliquip laborum excepteur voluptate sit esse enim. Enim eiusmod velit duis tempor irure esse ad. Duis incididunt magna consectetur sint nulla nostrud fugiat magna nostrud excepteur cillum incididunt consequat. Officia laboris non et eu ea velit sit exercitation.",
+      "startsAt": "8:45",
+      "endsAt": "9:45",
+      "speakers": [
+        {
+          "id": "36a25c2a-4204-42f0-9ba8-d7b9c6f67226",
+          "name": "Valentine Crawford"
+        }
+      ],
+      "room": "Uranus",
+      "day": "Thursday",
+      "format": "Session",
+      "track": "Data Science",
+      "level": "Intermediate"
+    },
+    {
+      "id": 134818,
+      "title": "MongoDB Best Practices",
+      "description": "Ullamco ex dolor excepteur labore ad et sunt id in eiusmod dolor eiusmod. Anim ad ea commodo. Ullamco elit fugiat duis adipisicing nulla et mollit nulla amet do enim voluptate est aute. Sint commodo anim culpa reprehenderit consectetur. Et magna ut do consequat mollit reprehenderit duis eiusmod consectetur esse laborum quis amet dolore. Sunt laborum consequat magna nulla incididunt qui.\nVoluptate culpa consequat consectetur culpa in esse anim ad ipsum ipsum ex sunt dolor consequat id. Reprehenderit consequat nisi cupidatat ipsum deserunt pariatur elit consequat deserunt quis nulla officia nostrud qui. Est in eu non deserunt enim dolor ut. Anim enim cupidatat do. Magna duis elit culpa cupidatat in officia duis sit aute id. Officia elit do adipisicing labore eu sunt consectetur anim incididunt. Ex aliquip non dolor sit ut laboris. Culpa in do aliquip ut.",
+      "startsAt": "8:45",
+      "endsAt": "9:45",
+      "speakers": [
+        {
+          "id": "46baf7d8-70c6-48c1-b098-995f8c16cebf",
+          "name": "Charles Bennett"
+        }
+      ],
+      "room": "Jupiter",
+      "day": "Thursday",
+      "format": "Session",
+      "track": "Data",
+      "level": "Introductory and overview"
+    },
+    {
+      "id": 85401,
+      "title": "Node.js Crashes?",
+      "description": "Aute veniam aliqua adipisicing culpa. Non ullamco irure quis et veniam ex elit culpa et esse ea. Proident non dolor dolore dolor aute aliquip. Amet deserunt aliqua consectetur quis dolor esse pariatur cillum commodo consequat fugiat ipsum elit. Pariatur cillum excepteur qui officia commodo dolore incididunt commodo et elit id incididunt. Sunt ut ex labore occaecat exercitation enim ea eu. Qui labore laboris commodo aliquip quis sunt sit Lorem mollit sunt. Dolor consequat eiusmod aliqua qui non labore nisi esse.\nIncididunt eu consectetur mollit Lorem fugiat ullamco ullamco. Ullamco quis nisi velit elit nulla deserunt laborum dolore duis. Velit eiusmod in cillum reprehenderit labore cillum anim culpa. Sit nulla dolor est. Sit sint laboris proident tempor nulla aute esse ipsum ut voluptate velit. Anim consequat veniam Lorem laborum sunt laborum sint minim culpa aute.\nTempor voluptate nisi anim pariatur officia ut laborum. Tempor reprehenderit non ad elit duis consectetur ea aliquip exercitation veniam dolore. Sint ad sit ullamco ad culpa proident. Incididunt officia nisi excepteur velit id culpa veniam fugiat elit et aute aliqua non. Sit exercitation culpa sit ex ad ut excepteur consectetur esse fugiat amet cillum commodo laborum. Anim enim nisi elit adipisicing duis exercitation sunt dolor in deserunt irure reprehenderit ea commodo. Voluptate in consectetur ea nostrud eu minim non commodo ea est tempor ea adipisicing eu aliqua. Ullamco pariatur sunt magna excepteur sunt tempor sunt non occaecat ad ullamco veniam tempor.",
+      "startsAt": "8:45",
+      "endsAt": "9:45",
+      "speakers": [
+        {
+          "id": "3884cc4d-8364-4316-9b9a-e16561d87af3",
+          "name": "Sally Martinez"
+        }
+      ],
+      "room": "Io",
+      "day": "Thursday",
+      "format": "Session",
+      "track": "JavaScript",
+      "level": "Introductory and overview"
+    },
+    {
+      "id": 84370,
+      "title": "A Simple Guide to OAuth 2.0 and OpenID Connect",
+      "description": "Reprehenderit quis et pariatur sit in irure sint magna do dolore incididunt aliqua sunt irure. Exercitation irure consectetur commodo. Officia reprehenderit mollit amet. Labore excepteur officia Lorem elit dolore. Amet do veniam minim eu culpa magna duis consequat culpa sint velit duis incididunt. Do sunt fugiat occaecat elit culpa duis. Duis aute officia labore exercitation excepteur laboris tempor Lorem.",
+      "startsAt": "8:45",
+      "endsAt": "9:45",
+      "speakers": [
+        {
+          "id": "e5aad250-139d-4a16-9c6e-d3534bbe1fc6",
+          "name": "Lori Coleman"
+        }
+      ],
+      "room": "Earth",
+      "day": "Thursday",
+      "format": "Session",
+      "track": "Cloud",
+      "level": "Intermediate"
+    },
+    {
+      "id": 85338,
+      "title": "How to Choose a Cloud Provider.",
+      "description": "Excepteur eu ipsum qui in est magna laborum magna sunt labore. Velit nisi sint commodo laboris esse duis sit consequat ea officia nisi et esse. Quis nostrud ut dolore velit consequat laboris anim tempor sunt dolor cupidatat eiusmod ea. Sunt commodo et esse do voluptate officia in. Ipsum voluptate eu dolor ea sunt dolore amet occaecat occaecat labore occaecat occaecat irure incididunt. Voluptate nisi deserunt ut.",
+      "startsAt": "8:45",
+      "endsAt": "9:45",
+      "speakers": [
+        {
+          "id": "2118346d-1f8d-410b-af3b-ff0fbcd0f661",
+          "name": "Vicki Gordon"
+        }
+      ],
+      "room": "Titan",
+      "day": "Thursday",
+      "format": "Session",
+      "track": "Cloud",
+      "level": "Intermediate"
+    },
+    {
+      "id": 85757,
+      "title": "The ASP.NET Identity Area",
+      "description": "Do est cupidatat duis est commodo laborum esse est mollit cupidatat id sunt reprehenderit commodo culpa. Irure labore deserunt cupidatat cillum consequat duis veniam proident ad officia dolore. Aliqua aute ut sint magna culpa magna velit sint non. Est ex aliquip id sunt sint nisi anim pariatur incididunt mollit. Exercitation ea est enim ipsum cupidatat id dolore. Id reprehenderit officia nostrud. Sunt do do nulla esse et aliquip id et reprehenderit labore Lorem ad Lorem cupidatat consequat. Aliquip occaecat in Lorem cillum sit labore sunt sit laborum velit ut reprehenderit reprehenderit.\nMinim esse non id labore pariatur labore voluptate sit ex aute in. Sint laboris amet in ex. Exercitation sit excepteur Lorem id irure velit id. Exercitation magna irure anim fugiat eiusmod id et ut dolor. Ipsum do qui aliquip non reprehenderit dolor irure tempor consectetur consectetur dolore occaecat. Adipisicing dolore dolor nisi ea cupidatat qui Lorem exercitation ex adipisicing duis tempor ad. Commodo eiusmod sit eu culpa laborum reprehenderit mollit duis sit adipisicing non labore. Nulla tempor duis ipsum et laboris aute laborum fugiat consequat ea fugiat.\nElit labore veniam sint sunt. Consectetur anim aliqua ut ea reprehenderit non irure magna elit esse. Aliquip dolor do minim amet est sunt ullamco exercitation aliqua tempor do officia in. Non sit mollit officia est aliqua in eu qui ad exercitation nisi. Non dolore reprehenderit officia nisi est occaecat eiusmod.",
+      "startsAt": "8:45",
+      "endsAt": "9:45",
+      "speakers": [
+        {
+          "id": "789a1a16-7230-437e-b10e-a5763dc45d89",
+          "name": "River Lewis"
+        }
+      ],
+      "room": "Ganymede",
+      "day": "Thursday",
+      "format": "Session",
+      "track": ".NET",
+      "level": "Introductory and overview"
+    },
+    {
+      "id": 82611,
+      "title": "Connected data with graph databases",
+      "description": "Qui aute qui nostrud sint. Mollit in magna nostrud pariatur deserunt dolore ullamco quis. Duis non quis laborum occaecat cupidatat eu elit voluptate officia mollit labore id. Esse cupidatat aute ea nulla occaecat sunt in consectetur magna laborum ut sunt Lorem nulla. Veniam pariatur quis proident quis velit reprehenderit sit cillum velit commodo culpa ut do.",
+      "startsAt": "2:15",
+      "endsAt": "3:15",
+      "speakers": [
+        {
+          "id": "e9ef29b1-ab04-4328-ba58-38b1c047e0bf",
+          "name": "Chris Franklin"
+        }
+      ],
+      "room": "Pluto",
+      "day": "Friday",
+      "format": "Session",
+      "track": "Data",
+      "level": "Introductory and overview"
+    },
+    {
+      "id": 101352,
+      "title": "The worst metrics",
+      "description": "Eiusmod laboris ut ea cupidatat excepteur laborum sint enim. Anim pariatur et ut eiusmod eiusmod officia dolor tempor ex ea commodo sunt. Excepteur proident elit eu culpa sit nostrud quis id ipsum deserunt proident velit sit. Ea dolore incididunt dolore in veniam in sit do occaecat cupidatat nisi. Mollit Lorem eu enim non irure eu nisi. Ullamco deserunt aliqua aute exercitation ad velit eu cillum labore quis eu occaecat aliqua aute magna. Id pariatur proident consectetur minim consectetur labore eu commodo deserunt sunt excepteur consectetur nostrud culpa Lorem.\nId dolor sint deserunt fugiat. Elit elit proident cupidatat anim ea consequat do officia nostrud occaecat ut. Consequat proident laboris reprehenderit ipsum proident commodo laboris anim Lorem officia. Voluptate enim amet aute ea ullamco sint sunt tempor incididunt excepteur nulla enim aute.\nLaborum magna consequat amet duis minim nisi in elit. Sunt nulla ut minim nostrud consequat ex qui. Velit in do aliquip proident qui velit deserunt cupidatat. Anim veniam exercitation proident. Ullamco eu ipsum aute anim aliqua fugiat amet id elit sit eu. Amet excepteur officia est nostrud.",
+      "startsAt": "2:15",
+      "endsAt": "3:15",
+      "speakers": [
+        {
+          "id": "18f368cc-86e7-4921-9f9a-587e7ef037ea",
+          "name": "Kim Garcia"
+        }
+      ],
+      "room": "Neptune",
+      "day": "Friday",
+      "format": "Session",
+      "track": "DevOps",
+      "level": "Introductory and overview"
+    },
+    {
+      "id": 80263,
+      "title": "Reactive for the patient",
+      "description": "Nisi ullamco commodo laborum elit sit incididunt ullamco enim aliquip mollit non est pariatur Lorem. Amet est sit magna velit quis commodo duis aliquip est culpa. Mollit irure sit qui fugiat mollit irure non et laborum elit cillum incididunt minim amet. Duis elit officia aliqua sit aliquip. Cupidatat nulla amet incididunt aute non nisi esse minim proident ut sunt amet. Sint nulla officia ut. Mollit Lorem magna incididunt mollit cupidatat ut ipsum fugiat non ut incididunt aute. Nulla ut occaecat magna sit proident aliqua duis sit exercitation.",
+      "startsAt": "2:15",
+      "endsAt": "3:15",
+      "speakers": [
+        {
+          "id": "e2712384-1dff-4eb7-8dbf-77e621e4d274",
+          "name": "Justice Harper"
+        }
+      ],
+      "room": "Europa",
+      "day": "Friday",
+      "format": "Session",
+      "track": "Java",
+      "level": "Introductory and overview"
+    },
+    {
+      "id": 130081,
+      "title": "The Importance of Recruiters",
+      "description": "Quis commodo ad laborum. Qui consequat reprehenderit non incididunt in consectetur voluptate. Non aliquip et adipisicing aute officia Lorem eiusmod sunt sunt. Enim et ex consectetur aliquip nisi consectetur anim veniam exercitation pariatur. Aliqua culpa nostrud enim ipsum magna dolore incididunt ipsum magna amet cupidatat ullamco incididunt amet aute. Ad officia laboris quis ipsum non pariatur deserunt culpa ea aliquip ut mollit.\nSit anim laborum pariatur ullamco dolore aute est est proident minim fugiat voluptate minim. Veniam officia proident velit aute cillum ad ut. Fugiat consectetur Lorem ea magna dolor. Officia nostrud officia ullamco laboris minim magna quis labore nostrud nulla exercitation.\nMinim velit aliqua anim officia ea. Occaecat aliquip in est. Occaecat velit tempor aliquip dolor fugiat et elit proident Lorem. Laboris minim labore voluptate in eu proident commodo aliqua.",
+      "startsAt": "2:15",
+      "endsAt": "3:15",
+      "speakers": [
+        {
+          "id": "7834c5b6-3b35-459b-94f7-020de94de36f",
+          "name": "Mark Horton"
+        }
+      ],
+      "room": "Earth",
+      "day": "Friday",
+      "format": "Session",
+      "track": "Human Skills",
+      "level": "Intermediate"
+    },
+    {
+      "id": 77798,
+      "title": "NativeScript + Angular",
+      "description": "Ut commodo officia eu minim enim fugiat. Occaecat nulla aliquip sunt dolor. Laborum voluptate est consequat id magna minim veniam enim et velit. Nulla enim dolore ex fugiat adipisicing eiusmod aliquip aliquip officia sint sunt adipisicing incididunt. Dolor et minim duis commodo consectetur reprehenderit cupidatat. Velit qui officia ut consequat est ut commodo aute quis occaecat anim reprehenderit irure proident. Irure reprehenderit ea mollit exercitation eiusmod ipsum veniam.\nAdipisicing velit quis fugiat Lorem eiusmod. Minim eu minim esse ipsum ipsum occaecat ea in incididunt adipisicing ullamco ut cupidatat quis. Lorem non minim cillum proident proident excepteur. Esse incididunt mollit aliqua laboris fugiat excepteur sint et amet consequat ea veniam sint occaecat. Exercitation ipsum sunt eiusmod laborum cillum cillum excepteur. Minim aute sint commodo duis cillum voluptate pariatur.\nUllamco adipisicing esse veniam elit voluptate minim nostrud est proident velit velit. Officia esse enim aute et magna ut excepteur mollit. Officia nulla qui non aliquip nulla aliqua id voluptate deserunt ipsum. In commodo dolor veniam elit commodo sint nisi magna.",
+      "startsAt": "3:30",
+      "endsAt": "4:30",
+      "speakers": [
+        {
+          "id": "1fefdbea-9cc1-4f84-9001-a0df076a8f45",
+          "name": "Leonard Vargas"
+        }
+      ],
+      "room": "Saturn",
+      "day": "Friday",
+      "format": "Session",
+      "track": "Mobile",
+      "level": "Introductory and overview"
+    },
+    {
+      "id": 79048,
+      "title": "Akka Streams are a thing",
+      "description": "Enim do culpa est amet eiusmod exercitation labore est ullamco voluptate duis consequat nostrud dolor. In dolor laborum laboris adipisicing. Magna aliquip consequat labore velit culpa sunt non. Eiusmod sit eu nisi tempor est non officia excepteur ad amet eiusmod in ad fugiat. Consectetur ullamco culpa veniam laborum anim magna in enim deserunt.",
+      "startsAt": "3:30",
+      "endsAt": "4:30",
+      "speakers": [
+        {
+          "id": "41302283-03b9-4876-8f7c-67298c0ac3a0",
+          "name": "Alexander Snyder"
+        }
+      ],
+      "room": "Ganymede",
+      "day": "Friday",
+      "format": "Session",
+      "track": ".NET",
+      "level": "Intermediate"
+    },
+    {
+      "id": 85009,
+      "title": "Naked Objects?",
+      "description": "Elit mollit sint voluptate non excepteur dolor irure eiusmod culpa proident. Nulla magna sint veniam nulla Lorem do. Id officia nulla do labore dolor cillum labore est minim consectetur ullamco. Incididunt Lorem tempor do labore. Minim sit nisi commodo voluptate aliqua dolor sint reprehenderit. Enim est reprehenderit ullamco cillum laboris fugiat amet.",
+      "startsAt": "3:30",
+      "endsAt": "4:30",
+      "speakers": [
+        {
+          "id": "fbcde9d0-ed63-48d5-ba6d-9cff8296fdd2",
+          "name": "Wisdom Reyes"
+        }
+      ],
+      "room": "Venus",
+      "day": "Friday",
+      "format": "Session",
+      "track": "UI/UX",
+      "level": "Introductory and overview"
+    },
+    {
+      "id": 85394,
+      "title": "Getting less out of TypeScript",
+      "description": "Consequat eu consequat velit anim cupidatat ipsum aliquip sunt. Laboris nostrud magna sunt minim laborum commodo proident. Enim officia nostrud irure fugiat labore. Nostrud mollit qui amet fugiat consequat labore. Labore in ex deserunt Lorem irure dolore cillum elit sunt cillum ut ex nostrud adipisicing sint. Cillum Lorem adipisicing culpa ad anim id anim ullamco pariatur consectetur velit dolore.",
+      "startsAt": "3:30",
+      "endsAt": "4:30",
+      "speakers": [
+        {
+          "id": "1ae7a4a9-3668-4703-840c-05b4cf857d7d",
+          "name": "Caelan Fleming"
+        }
+      ],
+      "room": "Sol",
+      "day": "Friday",
+      "format": "Session",
+      "track": "JavaScript",
+      "level": "Advanced"
+    },
+    {
+      "id": 84700,
+      "title": "The Future of Java",
+      "description": "Cillum nisi incididunt mollit id qui occaecat ad pariatur consectetur Lorem ex dolor esse aliquip. Dolore nostrud officia laboris ex pariatur pariatur aliqua. Reprehenderit cillum consectetur duis duis voluptate qui consequat adipisicing culpa voluptate ad reprehenderit. Aute ex adipisicing cillum aliquip consectetur ut veniam esse eiusmod. Labore incididunt laborum voluptate excepteur pariatur eu laborum occaecat elit incididunt pariatur ad consequat. Id Lorem nisi nisi eiusmod dolor occaecat enim cillum cillum id incididunt consectetur ipsum non veniam.\nCommodo culpa exercitation consectetur minim sunt ipsum cupidatat cupidatat eu nulla eu ullamco ipsum consequat duis. Mollit nisi consequat in magna aute elit aute occaecat nulla occaecat ipsum. Nisi incididunt amet enim deserunt anim do. Irure anim voluptate tempor reprehenderit deserunt proident dolore commodo minim deserunt. Nulla ullamco aliqua magna excepteur do sunt pariatur sit fugiat duis eiusmod dolore fugiat. In laboris sint magna ea voluptate est tempor. Consequat do ea amet ut laborum ullamco. Mollit deserunt magna id in.\nSint id quis incididunt aute. Fugiat culpa tempor commodo ipsum mollit aute. Cupidatat amet elit Lorem officia pariatur. Duis sint commodo pariatur cillum laborum laborum duis ullamco dolore excepteur. Pariatur labore elit est eu magna. Esse id aute dolor aute ut. Nostrud ea ad amet ad ea minim aliquip.",
+      "startsAt": "3:30",
+      "endsAt": "4:30",
+      "speakers": [
+        {
+          "id": "5403c3f5-a57b-4fa9-ba49-de42cef55be4",
+          "name": "Rick Brown"
+        }
+      ],
+      "room": "Europa",
+      "day": "Friday",
+      "format": "Session",
+      "track": "Java",
+      "level": "Intermediate"
+    },
+    {
+      "id": 84548,
+      "title": "Encryption as a Developer",
+      "description": "Cupidatat deserunt exercitation adipisicing minim. Velit cupidatat enim fugiat incididunt. Aliquip duis veniam aute aute esse aliqua voluptate tempor anim veniam esse pariatur sint. Fugiat voluptate esse pariatur eiusmod.\nLaborum anim reprehenderit commodo anim dolor commodo dolore aliqua proident. Aute et proident esse veniam dolor eu est commodo. Cillum duis ea et consectetur ea id est non sunt sint aute anim ex qui proident. Voluptate velit proident anim voluptate aliqua nulla. Elit aliqua velit officia voluptate non deserunt aliqua enim amet sint ex sit.\nSint minim commodo ut nisi officia sunt proident nisi aliqua nostrud culpa. Amet pariatur aliquip dolore dolore magna esse veniam proident commodo quis laboris irure ut mollit. Commodo enim pariatur consectetur et velit cupidatat aliqua in non consequat cupidatat tempor pariatur. Dolor magna ea reprehenderit officia ipsum laborum. Sunt proident cupidatat fugiat adipisicing ut consectetur in nulla sint est veniam enim. Culpa cillum fugiat eiusmod ad.",
+      "startsAt": "3:30",
+      "endsAt": "4:30",
+      "speakers": [
+        {
+          "id": "8de6a283-f104-432b-ad08-f775a5fae6a4",
+          "name": "Lauren Wood"
+        }
+      ],
+      "room": "Jupiter",
+      "day": "Friday",
+      "format": "Session",
+      "track": "Other Languages",
+      "level": "Intermediate"
+    },
+    {
+      "id": 133591,
+      "title": "Landing with Confidence in Azure",
+      "description": "Et pariatur sunt sit labore in proident exercitation officia veniam labore. Minim nostrud velit ea esse aliquip ut. Minim magna nulla veniam culpa adipisicing. Lorem id amet minim veniam aute deserunt. Sint minim non magna.",
+      "startsAt": "3:30",
+      "endsAt": "4:30",
+      "speakers": [
+        {
+          "id": "952d3b14-a231-4cc6-a97f-95940dac3fa5",
+          "name": "Kay Brooks"
+        }
+      ],
+      "room": "Titan",
+      "day": "Friday",
+      "format": "Session",
+      "track": "Cloud",
+      "level": "Introductory and overview"
+    },
+    {
+      "id": 85689,
+      "title": "Failing to Plan",
+      "description": "Ad cillum excepteur pariatur eu. Eiusmod tempor nisi in adipisicing. Adipisicing nulla irure incididunt pariatur sint amet esse tempor veniam enim enim in exercitation deserunt elit. Duis nisi do id quis in ullamco ullamco irure cillum aliqua. Magna et quis elit minim culpa eu nisi sit deserunt reprehenderit ad ipsum esse cillum. Magna proident id deserunt tempor exercitation officia proident duis nostrud exercitation consequat do officia. Id eiusmod proident nostrud Lorem ad ea dolor voluptate consectetur exercitation deserunt deserunt ullamco enim consequat.\nPariatur non fugiat est sit occaecat aute eiusmod in duis occaecat culpa anim. Est voluptate dolor cupidatat do ad qui est nulla cupidatat commodo non deserunt ipsum culpa. Quis veniam laborum culpa id labore esse dolor dolore. Officia pariatur id veniam officia veniam id irure cupidatat minim ullamco.",
+      "startsAt": "3:30",
+      "endsAt": "4:30",
+      "speakers": [
+        {
+          "id": "86d72d85-ef02-405e-b0de-1603dae6b8fb",
+          "name": "Sam Johnson"
+        }
+      ],
+      "room": "Mars",
+      "day": "Friday",
+      "format": "Session",
+      "track": "Process",
+      "level": "Introductory and overview"
+    },
+    {
+      "id": 79878,
+      "title": "Use cases for Machine Learning",
+      "description": "Duis laboris consectetur magna Lorem eu labore sit ullamco. Eiusmod consequat proident Lorem velit sit do proident sint Lorem commodo nostrud incididunt excepteur Lorem labore. Veniam et mollit est amet dolor ea amet et nulla Lorem reprehenderit dolore incididunt non. Est laboris non elit deserunt commodo sint deserunt occaecat occaecat.\nEnim cillum laboris quis in aliquip aliquip pariatur. Deserunt minim et enim qui adipisicing minim nulla quis ex consequat sunt. Sint velit consectetur dolore velit ex aliquip adipisicing esse ut cillum ullamco pariatur nisi sit. Do aliqua nulla aliqua sint cupidatat ut excepteur ullamco cillum eu. Laboris aliqua sint sit cupidatat consequat magna ex qui exercitation labore exercitation aute officia. In ut incididunt est. Aliquip nulla labore consectetur fugiat labore Lorem excepteur consequat sit sunt reprehenderit voluptate.\nEst ex mollit nisi aute pariatur cillum velit eu incididunt do quis sit et exercitation. Laboris aliquip eu laboris et anim laboris mollit sint adipisicing nisi consequat. Minim qui cupidatat commodo occaecat ullamco exercitation et. Cillum aute id sit culpa magna consequat cupidatat adipisicing qui elit qui officia irure aliquip dolor. Ex laboris cupidatat velit labore officia dolor ex.",
+      "startsAt": "3:30",
+      "endsAt": "4:30",
+      "speakers": [
+        {
+          "id": "2e41996e-0ac7-42a6-a8d6-b8fc6a9a410f",
+          "name": "Clayton Robertson"
+        }
+      ],
+      "room": "Uranus",
+      "day": "Friday",
+      "format": "Session",
+      "track": "Data Science",
+      "level": "Introductory and overview"
+    },
+    {
+      "id": 78152,
+      "title": "Components with TypeScript and GraphQL",
+      "description": "Sint nisi adipisicing fugiat aute mollit quis esse. Ullamco anim nostrud fugiat magna aliquip. Deserunt duis duis proident veniam minim nulla excepteur exercitation sint pariatur ad labore do voluptate fugiat. Aliqua esse culpa aliquip tempor pariatur sint Lorem elit ex fugiat adipisicing. Aliqua esse culpa labore laboris non laboris minim. Esse veniam enim commodo exercitation nulla ut cillum ea aute proident proident consectetur dolore cillum enim. Cupidatat incididunt cupidatat exercitation aliqua id laboris in irure. Nisi ut in reprehenderit amet elit proident in ipsum ut aliqua id culpa in ut.",
+      "startsAt": "3:30",
+      "endsAt": "4:30",
+      "speakers": [
+        {
+          "id": "fcbad4dc-96b5-4624-9fcc-16561ea44394",
+          "name": "Rylan Fowler"
+        }
+      ],
+      "room": "Io",
+      "day": "Friday",
+      "format": "Session",
+      "track": "JavaScript",
+      "level": "Intermediate"
+    },
+    {
+      "id": 85097,
+      "title": "So, You Want to Work from the Office?",
+      "description": "Tempor eiusmod excepteur voluptate dolore excepteur laborum nisi ad duis deserunt amet magna. Excepteur ea quis dolor dolore aute veniam cupidatat cupidatat. Qui mollit consectetur eiusmod mollit anim. Irure cillum ex aliquip.\nSit nisi sunt magna exercitation labore labore magna. Amet et culpa fugiat magna. Eu minim nisi officia reprehenderit fugiat aliquip adipisicing Lorem magna irure aute cupidatat pariatur. Irure pariatur velit ex ullamco eiusmod officia veniam sint. Aliquip est qui aute ipsum laborum duis ad irure. Tempor aute dolor excepteur laboris exercitation dolor eiusmod minim ad sint anim sint occaecat et velit. Dolor nostrud qui amet nulla laboris qui est mollit Lorem.",
+      "startsAt": "3:30",
+      "endsAt": "4:30",
+      "speakers": [
+        {
+          "id": "f90f22c5-d251-42a5-afe8-af13d5b2aea8",
+          "name": "Amari Nelson"
+        }
+      ],
+      "room": "Earth",
+      "day": "Friday",
+      "format": "Session",
+      "track": "Human Skills",
+      "level": "Introductory and overview"
+    },
+    {
+      "id": 136957,
+      "title": "Unlocking the Power of Browser Developer Tools",
+      "description": "Reprehenderit elit ut commodo anim ex deserunt ea. Ut amet ex est fugiat proident ipsum Lorem Lorem exercitation eu adipisicing est do. Anim aliqua ut cillum nostrud minim duis laborum aliquip nostrud mollit consectetur enim aliqua nulla et. Ea reprehenderit mollit ex adipisicing cupidatat qui voluptate sint irure ipsum Lorem elit. Duis magna officia eiusmod ut excepteur officia et velit culpa. Pariatur officia nisi voluptate dolor reprehenderit laboris. Ad laborum ea irure proident consequat aliquip eiusmod et consequat adipisicing duis qui sint ea exercitation. Ex est cillum adipisicing aute Lorem culpa fugiat.",
+      "startsAt": "3:30",
+      "endsAt": "4:30",
+      "speakers": [
+        {
+          "id": "3c348111-df90-48f0-b58b-f6b1321d9602",
+          "name": "Nathaniel Caldwell"
+        }
+      ],
+      "room": "Pluto",
+      "day": "Friday",
+      "format": "Session",
+      "track": "Testing/QA",
+      "level": "Introductory and overview"
+    },
+    {
+      "id": 85438,
+      "title": "Supercharge your CI/CD pipeline using Octopus Deploy",
+      "description": "Tempor amet dolor exercitation ex aliqua officia elit nisi dolore est. Esse labore cupidatat sunt ipsum anim exercitation. In ipsum nulla do quis consequat. Et quis est amet cillum eiusmod velit esse officia.\nAliquip irure in aute in nostrud. Nulla nisi ullamco excepteur velit nostrud mollit exercitation sit culpa velit. Non aliqua minim mollit reprehenderit consequat deserunt. Qui ad id amet excepteur duis voluptate nulla anim veniam aliquip quis. Enim ex id tempor officia fugiat non culpa elit aute id culpa ipsum dolore laborum. Quis exercitation pariatur laboris excepteur consequat aliqua nulla elit.",
+      "startsAt": "3:30",
+      "endsAt": "4:30",
+      "speakers": [
+        {
+          "id": "b48019cd-1c88-49c6-ba3f-6133bea26b3d",
+          "name": "Connie Castillo"
+        }
+      ],
+      "room": "Neptune",
+      "day": "Friday",
+      "format": "Session",
+      "track": "DevOps",
+      "level": "Intermediate"
+    },
+    {
+      "id": 85344,
+      "title": "The History of JavaScript",
+      "description": "Qui nulla velit eiusmod veniam ullamco amet incididunt duis aliquip irure irure sit ea. Dolore minim proident proident qui ipsum magna eiusmod fugiat ex. Proident ad qui enim pariatur enim laboris cillum commodo esse ex pariatur qui aliqua. Nulla adipisicing laborum dolore deserunt anim est.\nSit aliquip exercitation anim esse adipisicing aliquip ut qui elit culpa pariatur. Laborum est eiusmod in culpa aute proident. Dolor consectetur ad ipsum incididunt Lorem do fugiat deserunt tempor eu non excepteur fugiat. Labore quis aliqua elit ex reprehenderit laborum pariatur id dolore commodo quis ea consequat occaecat. Enim excepteur sit esse est laboris anim duis cillum adipisicing eu aliquip nostrud laborum excepteur ullamco. Qui velit amet voluptate cupidatat veniam pariatur culpa. Fugiat excepteur enim adipisicing. Id occaecat culpa cillum amet veniam exercitation ut eiusmod qui aliqua ex nulla officia amet sit.\nCupidatat et qui aliqua eu aute laborum elit ut tempor esse. Minim quis eiusmod officia do id magna Lorem aliquip duis reprehenderit labore sint cupidatat est laborum. Aute mollit est consequat elit eiusmod aliquip incididunt ut dolore quis est Lorem sunt id eiusmod. Cupidatat sunt ea aliquip elit do id occaecat occaecat culpa cupidatat proident. Voluptate qui elit aliqua do non ut.",
+      "startsAt": "3:30",
+      "endsAt": "4:30",
+      "speakers": [
+        {
+          "id": "d4d7850a-526e-4959-aab1-36460081fcf5",
+          "name": "Joshua Marshall"
+        }
+      ],
+      "room": "Mercury",
+      "day": "Friday",
+      "format": "Session",
+      "track": ".NET",
+      "level": "Introductory and overview"
+    },
+    {
+      "id": 85788,
+      "title": "Working Remote for Two Jobs, Balancing Both and Still Remembering to Eat",
+      "description": "Cillum anim irure ullamco est enim in est amet in sit non. Enim culpa ullamco cillum excepteur. Labore deserunt magna enim proident. Do et consequat ea cupidatat commodo. Proident non consequat aute do irure nulla.\nProident voluptate duis ut voluptate ad proident ut deserunt Lorem veniam sint veniam. Ullamco velit sint elit dolor sunt exercitation. Duis eiusmod dolor aliquip sit cillum enim excepteur ullamco. Fugiat eiusmod sunt est sunt tempor amet fugiat qui nulla. Pariatur labore anim irure sint aliquip. Eu nostrud ea reprehenderit veniam nulla ipsum. Consequat consectetur nostrud eiusmod ipsum incididunt laboris voluptate voluptate duis do magna cillum ex officia non.",
+      "startsAt": "3:30",
+      "endsAt": "4:30",
+      "speakers": [
+        {
+          "id": "a79c25d1-632c-4ae9-aff9-9375a97c0eaf",
+          "name": "Wren Obrien"
+        }
+      ],
+      "room": "Callisto",
+      "day": "Friday",
+      "format": "Session",
+      "track": "Human Skills",
+      "level": "Introductory and overview"
+    },
+    {
+      "id": 201,
+      "speakers": [
+        {
+          "id": "10",
+          "name": "Globo User"
+        }
+      ],
+      "title": "asdf",
+      "description": "asdf",
+      "format": "Lecture",
+      "level": "Beginner"
+    },
+    {
+      "id": 202,
+      "speakers": [
+        {
+          "id": "4",
+          "name": "Mat"
+        }
+      ],
+      "title": "Let’s Learn Redux",
+      "description": "Redux is a great tool and is a powerful way to make applications!",
+      "format": "Workshop",
+      "level": "Beginner"
+    },
+    {
+      "id": 56,
+      "speakers": [
+        {
+          "id": "4",
+          "name": "Mat"
+        }
+      ],
+      "title": "Learning GraphQL",
+      "description": "GraphQL is a great way to fetch data!",
+      "format": "Keynote",
+      "level": "Advanced"
+    },
+    {
+      "id": 57,
+      "speakers": [
+        {
+          "id": "10",
+          "name": "A"
+        }
+      ],
+      "title": "Yo",
+      "description": "Session",
+      "format": "Lecture",
+      "level": "Beginner"
+    },
+    {
+      "id": 58,
+      "speakers": [
+        {
+          "id": "10",
+          "name": "A"
+        }
+      ],
+      "title": "Chicken",
+      "description": "Rice",
+      "format": "Workshop",
+      "level": "Intermediate"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+type Speaker {
+  id: ID!
+  bio: String
+  name: String!
+  featured: Boolean
+  sessions: [Session]
+  user: User
+}
+
+extend type Query {
+  speakers: [Speaker!]!
+  speakerById(id: ID): Speaker
+}
+
+extend type Mutation {
+  markFeatured(speakerId: ID!, featured: Boolean!): Speaker
+}

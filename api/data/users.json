@@ -1,0 +1,91 @@
+{
+  "users": [
+    {
+      "email": "admin@globomantics.com",
+      "hash": "$2a$10$7bLV5PLjd4CDjQJqmkgDEuLlzXNsprI561a0Btk.h9YeKfsvqiahq",
+      "role": "ADMIN",
+      "id": "c22e95c6-e111-4655-b54a-8b12392e312e",
+      "name": "Admin User"
+    },
+    {
+      "email": "globo_user@gmail.com",
+      "hash": "$2a$10$Urfr7twL2pnwQAtRVO9qp.62rCroNbHAzPS8UZkw9O8ktfA1M8QJG",
+      "role": "USER",
+      "id": "10",
+      "favorites": [
+        "84375",
+        "82049",
+        "85060",
+        "85595",
+        "80763"
+      ],
+      "name": "Globo User"
+    },
+    {
+      "id": "3",
+      "name": "Mat Warger",
+      "email": "mwarger@gmail.com",
+      "hash": "$2a$10$WN5rIa471kVHx2XuNWjhROvP32RfIJYWkL1ASTKlWOyN03Y/F93ty",
+      "role": "USER",
+      "favorites": [
+        "80310",
+        "82049",
+        "79874",
+        "84375"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Mat",
+      "email": "mat@gmail.com",
+      "hash": "$2a$10$BEmr5FRQ5Jn93geJDXiNeeZ8Y0zzJ26xm0xv6pyzDP38zIMZ2FOBi",
+      "role": "USER",
+      "favorites": [
+        "84473",
+        "202"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "mat test",
+      "email": "mwarger@globomantics.com",
+      "hash": "$2a$10$svx3EnsSXnwm8zRV9fPKv.tHibqu/ruBRJJAPXomEgpuiQvx1M.TS",
+      "role": "ADMIN"
+    },
+    {
+      "id": "6",
+      "name": "Person",
+      "email": "p@erson.com",
+      "hash": "$2a$10$UEBd1QPrnHHJLyl22fvUreb04/fufmmLTk4r9eOFDlsI4myeOau6m",
+      "role": "USER"
+    },
+    {
+      "id": "7",
+      "name": "Aaa",
+      "email": "a@a.com",
+      "hash": "$2a$10$XLHwNVQROHyZKToe8.brl.fOxdik4VGRucreBcSRIXDakcAm/zDre",
+      "role": "USER"
+    },
+    {
+      "id": "8",
+      "name": "z",
+      "email": "z@z.com",
+      "hash": "$2a$10$Flwo3HrCz9jJhKw3cf8pJe7hj6lN51aHjgiMR6acwNaXzgI05UrBy",
+      "role": "USER"
+    },
+    {
+      "id": "9",
+      "name": "Spen",
+      "email": "sp@em.com",
+      "hash": "$2a$10$cCLKEd7auMjRVYl9h63EseKtrCR5Wu618TQfcZc3aVjgMUOjHB/dC",
+      "role": "USER"
+    },
+    {
+      "id": "10",
+      "name": "A",
+      "email": "a@b.com",
+      "hash": "$2a$10$7gSFxnyEWst82wx2bbuPeOx/dbfeEq5jzLu.JtnF0PoDKZEcsxiUu",
+      "role": "USER"
+    }
+  ]
+}

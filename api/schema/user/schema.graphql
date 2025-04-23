@@ -1,0 +1,53 @@
+type User {
+  id: String!
+  email: String!
+  favorites: [Session!]
+  role: Role!
+  speaker: Speaker
+  name: String!
+  hash: String
+}
+
+type AuthPayload {
+  user: User!
+  token: String
+}
+
+type UserInfoPayload {
+  user: User
+  token: String
+}
+
+type SignOutPayload {
+  user: User
+}
+
+enum Role {
+  ADMIN
+  USER
+}
+
+input SignUp {
+  email: String!
+  password: String!
+  name: String!
+}
+
+input SignIn {
+  email: String!
+  password: String!
+}
+
+extend type Query {
+  users: [User]
+  userById(id: ID): User
+  me: User
+}
+
+extend type Mutation {
+  toggleFavoriteSession(sessionId: ID!): User
+  signUp(credentials: SignUp!): AuthPayload!
+  signIn(credentials: SignIn!): AuthPayload!
+  userInfo: UserInfoPayload!
+  signOut: SignOutPayload!
+}

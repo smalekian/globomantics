@@ -1,0 +1,11 @@
+mutation SignUp($credentials: SignUp!) {
+  signUp(credentials: $credentials) {
+    token
+    user {
+      id
+      email
+      name
+      role
+    }
+  }
+}

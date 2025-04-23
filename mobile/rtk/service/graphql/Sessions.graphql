@@ -1,0 +1,5 @@
+query Sessions {
+  sessions {
+    ...Session
+  }
+}

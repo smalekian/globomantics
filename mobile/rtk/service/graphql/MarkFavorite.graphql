@@ -1,0 +1,10 @@
+mutation MarkSessionAsFavorite($id: ID!) {
+  toggleFavoriteSession(sessionId: $id) {
+    id
+    name
+    favorites {
+      id
+      title
+    }
+  }
+}
