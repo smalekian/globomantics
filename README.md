@@ -1,7 +1,7 @@
-# Building React Native Apps with Redux and GraphQL
+# Globomantics Development Conference
 
-> This is the sample application for the Building React Native Apps with Redux and GraphQL course, at Pluralsight.
+The Globomantics Development Conference is a fictional development conference. The code for this conference's mobile and web apps is structured in the following way:
 
-The API is available at /api.
-
-The example app used in the course is available at /app.
+- /api contains the GraphQL API powering both mobile and web.
+- /app contains the React web app.
+- /mobile contains the React Native mobile app.
